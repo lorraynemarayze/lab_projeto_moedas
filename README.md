@@ -19,3 +19,8 @@ UC7: Como empresa parceira, eu quero cadastrar vantagens no sistema, incluindo u
 UC8: Como aluno, eu quero resgatar uma vantagem utilizando minhas moedas e receber um cupom por e-mail, para que eu possa utilizá-lo presencialmente na empresa parceira.
 
 UC9: Como empresa parceira, eu quero receber uma notificação por e-mail sempre que um aluno resgatar uma vantagem oferecida, para que eu possa validar o cupom e completar a troca.
+
+### Diagrama de Entidades e Relacionamentos
+<div>
+    <img alt="Diagrama de classe" src="https://github.com/lorraynemarayze/lab_projeto_moedas/blob/main/diagramas/DER.png"/>
+</div>
