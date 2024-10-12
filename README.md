@@ -1,12 +1,12 @@
 # Laboratório 3 - Sistema de Gerenciamento de Moedas
 
-<div>
-    <img alt="Coin Logo" src="https://github.com/lorraynemarayze/lab_projeto_moedas/blob/main/documentos/imagens/coin_image.png" width="140" height="140"/>
+<div style="text-align: center;">
+    <img alt="Coin Logo" src="https://github.com/lorraynemarayze/lab_projeto_moedas/blob/main/documentos/imagens/coin_image.png" width="160" height="160"/>
 </div>
 
 O Sistema de Moeda Estudantil é uma plataforma projetada para incentivar o reconhecimento do mérito estudantil por meio de uma moeda virtual. Professores podem distribuir moedas aos alunos como forma de recompensa por seu bom desempenho, participação em aula e comportamento.
 
-## Integrantes
+### Integrantes
 - Estevão de Faria Rodrigues
 - Henrique Lobo
 - Lorrayne Marayze Silva de Oliveira
@@ -33,20 +33,20 @@ UC9: Como empresa parceira, eu quero receber uma notificação por e-mail sempre
 
 ### Diagrama de Caso de Uso
 <div>
-    <img alt="Diagrama de Caso de Uso" src="https://github.com/lorraynemarayze/lab_projeto_moedas/blob/main/documentos/diagramas/diagrama_de_caso_de_uso.png"/>
+    <img alt="Diagrama de Caso de Uso" src="https://github.com/lorraynemarayze/lab_projeto_moedas/blob/main/documentos/diagramas/caso_de_uso/diagrama_de_caso_de_uso.drawio.png"/>
 </div>
 
 ### Diagrama de Classe
 <div>
-    <img alt="Diagrama de Classe" src="https://github.com/lorraynemarayze/lab_projeto_moedas/blob/main/documentos/diagramas/diagrama_de_classes.png"/>
+    <img alt="Diagrama de Classe" src="https://github.com/lorraynemarayze/lab_projeto_moedas/blob/main/documentos/diagramas/classe/diagrama_de_classes.drawio.png"/>
 </div>
 
 ### Diagrama de Entidade e Relacionamento
 <div>
-    <img alt="Diagrama de Entidade e Relacionamento" src="https://github.com/lorraynemarayze/lab_projeto_moedas/blob/main/documentos/diagramas/DER.png"/>
+    <img alt="Diagrama de Entidade e Relacionamento" src="https://github.com/lorraynemarayze/lab_projeto_moedas/blob/main/documentos/diagramas/der/DER.png"/>
 </div>
 
 ### Diagrama de Componentes
 <div>
-    <img alt="Diagrama de Componentes" src="https://github.com/lorraynemarayze/lab_projeto_moedas/blob/main/documentos/diagramas/diagrama_de_componentes.png"/>
+    <img alt="Diagrama de Componentes" src="https://github.com/lorraynemarayze/lab_projeto_moedas/blob/main/documentos/diagramas/componentes/diagrama_de_componentes.png"/>
 </div>
