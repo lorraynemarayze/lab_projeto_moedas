@@ -43,7 +43,7 @@ UC9: Como empresa parceira, eu quero receber uma notificação por e-mail sempre
 
 ### Diagrama de Entidade e Relacionamento
 <div>
-    <img alt="Diagrama de Entidade e Relacionamento" src="https://github.com/lorraynemarayze/lab_projeto_moedas/blob/main/documentos/diagramas/der/DER.png"/>
+    <img alt="Diagrama de Entidade e Relacionamento" src="https://github.com/lorraynemarayze/lab_projeto_moedas/blob/main/documentos/diagramas/der/diagrama_er.drawio.png"/>
 </div>
 
 ### Diagrama de Componentes
